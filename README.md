@@ -2,6 +2,13 @@
 
 Я Антон Давыденко, разработчик на Python и JavaScript
 
+## Вот, что я умею
+
+- [Python, REST API](https://github.com/Antonio-87/Python_coursework)
+- [SQL, SQLAlchemy , DBeaver, Postgress](https://github.com/Antonio-87/DZ_database)
+- [Домашние работы по Django](https://github.com/Antonio-87/DZ_Django/tree/video)
+- [VK_bot(Python, ORM на SQLAlchemy, Postgress, API)](https://github.com/Antonio-87/VK-bot.git)
+
 ## Сертификаты в нетолгии
 
 - [Основы языка программирования Python](https://github.com/Antonio-87/Antonio-87/blob/main/certificate_basic_python.pdf)
