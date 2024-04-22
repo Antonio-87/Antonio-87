@@ -8,6 +8,7 @@
 - [SQL, SQLAlchemy , DBeaver, Postgress](https://github.com/Antonio-87/DZ_database)
 - [Домашние работы по Django](https://github.com/Antonio-87/DZ_Django/tree/video)
 - [VK_bot(Python, ORM на SQLAlchemy, Postgress, API)](https://github.com/Antonio-87/VK-bot.git)
+- [HTML и CSS](https://github.com/Antonio-87/Courswork_HTML_CSS.git)
 
 ## Сертификаты в нетолгии
 
