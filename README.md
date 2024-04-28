@@ -4,10 +4,8 @@
 
 ## Вот, что я умею
 
-Диплом:
-
-- [Frontend](https://github.com/Antonio-87/Diplom.Cloud.Frontend.git)
-- [Backend](https://github.com/Antonio-87/Diplom.Cloud.Backend.git)
+- [Diploma.Frontend](https://github.com/Antonio-87/Diplom.Cloud.Frontend.git)
+- [Diploma.Backend](https://github.com/Antonio-87/Diplom.Cloud.Backend.git)
 
 - [Python, REST API](https://github.com/Antonio-87/Python_coursework)
 - [SQL, SQLAlchemy , DBeaver, Postgress](https://github.com/Antonio-87/DZ_database)
