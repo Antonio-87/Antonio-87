@@ -4,11 +4,17 @@
 
 ## Вот, что я умею
 
+Диплом:
+
+- [Frontend](https://github.com/Antonio-87/Diplom.Cloud.Frontend.git)
+- [Backend](https://github.com/Antonio-87/Diplom.Cloud.Backend.git)
+
 - [Python, REST API](https://github.com/Antonio-87/Python_coursework)
 - [SQL, SQLAlchemy , DBeaver, Postgress](https://github.com/Antonio-87/DZ_database)
 - [Домашние работы по Django](https://github.com/Antonio-87/DZ_Django/tree/video)
 - [VK_bot(Python, ORM на SQLAlchemy, Postgress, API)](https://github.com/Antonio-87/VK-bot.git)
 - [HTML и CSS](https://github.com/Antonio-87/Courswork_HTML_CSS.git)
+- [JavaScript, Semantic-UI](https://github.com/Antonio-87/DZ_courswork-js_backup.git)
 
 ## Сертификаты в нетолгии
 
