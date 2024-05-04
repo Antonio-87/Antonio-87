@@ -18,7 +18,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="30" height="30" alt="express">
 <img src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png" width="30" height="30" alt="koa">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"  width="30" height="30" alt="npm">
+<img class="avatar mr-2 d-none d-md-block" alt="yarn" src="https://avatars.githubusercontent.com/u/22247014?s=48&amp;v=4" width="30" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"  width="30" height="30" alt="webpack">
+<img src="https://camo.githubusercontent.com/2e1efd50b61f26c56e82929d735dce115937350e280abac98641c79d765da27c/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" data-canonical-src="https://vitejs.dev/logo.svg" width="30" height="30">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" class="rounded mr-3" width="30" height="30" alt="eslint">
+<img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" class="rounded mr-3" width="30" height="30" alt="babel">
+<img class="avatar mr-2 d-none d-md-block" alt="Bootstrap" src="https://avatars.githubusercontent.com/u/13629408?s=48&amp;v=4" width="30" height="30">
+<img class="avatar mr-2 d-none d-md-block" alt="Ant design" src="https://avatars.githubusercontent.com/u/12101536?s=48&amp;v=4" width="30" height="30">
 
 ## Часть моих проектов
 
