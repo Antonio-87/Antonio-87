@@ -1,6 +1,6 @@
 ## Привет!
 
-Я Антон Давыденко, разработчик на Python и JavaScript
+Я Антон Давыденко, fullstack-разработчик на Python и JavaScript
 
 ## Мой stack
 
