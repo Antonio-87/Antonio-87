@@ -28,7 +28,7 @@
 <img class="avatar mr-2 d-none d-md-block" alt="Ant design" src="https://avatars.githubusercontent.com/u/12101536?s=48&amp;v=4" width="30" height="30">
 <img class="avatar mr-2 d-none d-md-block" alt="Simantic UI" src="https://avatars.githubusercontent.com/u/5796209?s=48&amp;v=4" width="30" height="30">
 <img src="https://github.com/colinhacks/zod/raw/master/logo.svg" width="30" height="30" alt="Zod logo">
-<img class="avatar mr-2 d-none d-md-block" alt="nginx" src="https://avatars.githubusercontent.com/u/1412239?s=48&amp;v=4" width="30" height="30">
+<img class="avatar mr-2 d-none d-md-block" alt="nginx" src="https://nginx.org/nginx.png" width="30" height="30">
 <img class="avatar mr-2 d-none d-md-block" alt="gunicorn" src="https://docs.gunicorn.org/en/stable/_images/gunicorn.png" width="100" height="30">
 
 ## Часть моих проектов
